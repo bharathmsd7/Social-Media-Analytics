@@ -1,6 +1,9 @@
 # Social Media Analytics
 ### The Future of Analytics in Social Media Platform 
 
+![alt text](web/assets/images/sma_headerlogodark.png)
+
+
 Social media has an enormous amount of information.It is a general platform where the common people can give advice and feedback and keep up-to-date with the latest news.
 
 Social Media Analyzer will scrap the posts of common people from three major social media platforms Twitter,Facebook and Instagram and analyse the data into 4 major aspects like.
