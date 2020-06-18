@@ -27,8 +27,9 @@ Social media has an enormous amount of information.It is a general platform wher
 - seaborn
 - eel
 
-__Install the dependencies in your Virtual environment and execute run_app.py for the dashboard.__
-__For the Data Scrapping and preprocessing execute Twitterscrapper.py __
+Install the dependencies in your Virtual environment and execute __run_app.py__ for the dashboard
+
+For the Data Scrapping and preprocessing execute __Twitterscrapper.py__
 
 
 Social Media Analyzer will scrap the posts of common people from three major social media platforms Twitter,Facebook and Instagram and analyse the data into 4 major aspects like.
