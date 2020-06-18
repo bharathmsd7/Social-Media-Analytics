@@ -6,31 +6,29 @@
 
 Social media has an enormous amount of information.It is a general platform where the common people can give advice and feedback and keep up-to-date with the latest news.
 
-Requirements (Python Packages):
+## Requirements (Python Packages):
+- pandas
+- textblob
+- numpy
+- selenium
+- bs4 (beautiful soup)
+- win10toast
+- instagram_scrapper
+- glob
+- sklearn
+- keras
+- pickle
+- matplotlib
+- nltk
+- googletrans
+- emoji
+- spacy
+- collection	
+- seaborn
+- eel
 
-pandas
-textblob
-numpy
-selenium
-bs4 (beautiful soup)
-win10toast
-instagram_scrapper
-glob
-sklearn
-keras
-pickle
-matplotlib
-nltk
-googletrans
-emoji
-spacy
-collection	
-seaborn
-eel
-     
-Install the dependencies in your Virtual environment and execute run_app.py for the dashboard.
-
-For the Data Scrapping and preprocessing execute Twitterscrapper.py .
+__Install the dependencies in your Virtual environment and execute run_app.py for the dashboard.__
+__For the Data Scrapping and preprocessing execute Twitterscrapper.py __
 
 
 Social Media Analyzer will scrap the posts of common people from three major social media platforms Twitter,Facebook and Instagram and analyse the data into 4 major aspects like.
